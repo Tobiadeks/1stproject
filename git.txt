@@ -1,0 +1,4 @@
+git init initializes your computer to git
+git status checks if you have saved your file or not 
+git add . prepares your code for saving and selects everything in your code
+git commit helps to save your code

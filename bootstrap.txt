@@ -1,0 +1,43 @@
+
+    <!--
+        common bootstrap class:
+        text-danger,text-warning,text-success,text-info, text-primary,text-secondary,text-white,text-light,text-muted, text-dark.
+        bg-danger,bg-warning,bg-success,bg-info, bg-primary,bg-secondary,bg-white,bg-light,bg-muted, bg-dark
+        h1--h6,p,lead, fs1--fs6,text-uppercase,text-lowercase,text-capitalise,fst-italic,d-flex,justify-content-between,align-items-center
+        position-absolute,position-relative, position-fixed
+        container container-fluid row col
+    -->
+    <!--<div class="card">
+                <div class="card-header">this is the header</div>
+                <div class="card-body">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non recusandae et magni excepturi dolor alias illum qui ipsum, voluptatibus sunt expedita harum numquam eaque deleniti maiores! Explicabo iste beatae neque.</div>
+                <div class="card-footer"> this is the fotter</div>
+            </div>-->
+            odkdodkdoodd
+
+        <form action="">
+    <div class="row">
+        <div class="col col-md-6 col-sm-12">
+            <label for="" class="form-label">firstname</label>
+            <input type="text" class="form-control">
+        </div>
+        <div class="col col-md-6 col-sm-12">
+         <label for="" class="form-label">lastname</label>
+         <input type="text" class="form-control">
+        </div>
+        <div class="row col-sm-12">
+            <label for="" class="form-label">email</label>
+            <input type="email" name="" id="" class="form-control">
+        </div>
+        <div class="row  col-sm-12">
+            <label for="" class="form-label">password</label>
+            <input type="password" name="" id="" class="form-control">
+        </div>
+        <div class="row col-md-2 col-sm-12">
+            <label for="" class="form-label">img</label>
+            <input type="file" name="" id="" class="form-control">
+        </div>   
+    </div>
+    <button type="submit" class="btn-primary btn m-3">Submit</button>
+        </form>
+    </fieldset>
+ </legend>
